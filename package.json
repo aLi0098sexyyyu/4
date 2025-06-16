@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "@whiskeysockets/baileys": "github:WaysModzz/baileys",
+    "axios": "^1.8.2",
+    "crypto": "^1.0.1",
+    "pino": "^9.6.0",
+    "qrcode-terminal": "^0.12.0",
+    "readline-sync": "^1.4.10",
+    "ssh2": "^1.16.0"
+  },
+  "name": "STEVYUN-STRESSER",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "STEVEN•STORE🕊🪽",
+  "license": "ISC",
+  "description": "STEVYUN-STRESSER DDOS LAYER 4"
+}
